@@ -1,0 +1,6 @@
+print("My name is suvaan.")
+print(4)
+print("I am 10 years old \n")
+print("My birthay is on ",9,"of august.")
+print ("bye", end=" ")
+print("hello")
